@@ -1,3 +1,3 @@
 # Text-Recognition-Swift-IOS
 
- #pod install 
+ pod install 
